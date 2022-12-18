@@ -1,0 +1,29 @@
+lastAccountName: Niestaz
+timestamps:
+  login: 1521861307419
+  lastteleport: 1521860834917
+  logout: 1521861711576
+ipAddress: 138.97.211.38
+lastlocation:
+  world: world
+  x: 528.6330102108985
+  y: 68.0
+  z: -545.1493627257476
+  yaw: 52.05069
+  pitch: 17.850216
+money: '85'
+homes:
+  home:
+    world: world
+    x: 528.6330102108985
+    y: 68.0
+    z: -545.1493627257476
+    yaw: 52.05069
+    pitch: 17.850216
+logoutlocation:
+  world: world
+  x: 319.59466371997587
+  y: 65.0
+  z: -460.4934757149929
+  yaw: -348.14972
+  pitch: 12.4499855

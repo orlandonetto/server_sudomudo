@@ -1,0 +1,31 @@
+lastAccountName: LysandraYT
+timestamps:
+  login: 1521860637016
+  logout: 1521861056573
+  lastteleport: 1521860846889
+ipAddress: 177.223.30.134
+lastlocation:
+  world: world
+  x: 432.3033937316695
+  y: 63.0
+  z: -382.72229691682367
+  yaw: 359.7174
+  pitch: 11.970486
+logoutlocation:
+  world: world
+  x: 416.34243814440345
+  y: 63.0
+  z: -438.90641336730897
+  yaw: 66.80517
+  pitch: 55.644234
+homes:
+  home:
+    world: world
+    x: 418.3198486129142
+    y: 63.0
+    z: -439.69032697280903
+    yaw: 84.16943
+    pitch: 50.119263
+money: '620'
+afk: false
+godmode: true

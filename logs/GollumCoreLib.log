@@ -1,0 +1,509 @@
+Simple Flight Event Handler has been registered.
+Wing Dye & Enchantment handlers have been registered.
+Initialized items.
+Initialized item recipes.
+Registered items.
+Initialized item recipes.
+Registered item recipes.
+Simple Flight has pre-initialized.
+This server is running Cauldron-MCPC-Plus version KCauldron-1.7.10-2.1403.1.54 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+Server Ping Player Sample Count: 12
+Using 4 threads for Netty based IO
+Skipping loading of NEI plugin, NEI not found!
+Initializing ModVersionChecker for mod bspkrsCore
+Initializing GUI Handler.
+Simple Flight has initialized.
+Add custom enchantment tool-tip for enchantment.frugal. Request sent from eplus
+Add custom enchantment tool-tip for enchantment.charging. Request sent from eplus
+Add custom enchantment tool-tip for enchantment.haste. Request sent from eplus
+Add custom enchantment tool-tip for enchantment.repair. Request sent from eplus
+Add custom enchantment tool-tip for enchantment.potency. Request sent from eplus
+Add custom enchantment tool-tip for Treecapitating. Request sent from eplus
+Loaded NPC Module Structure Plugin
+Loaded Automation Module Structure Plugin
+Loaded Structure Template: [big_fortress] WorldGen: true  Survival: false
+Loaded Structure Template: [desert_tower] WorldGen: true  Survival: false
+Could not locate biome: desert oil field while registering template: desert_tower for world generation.
+Loaded Structure Template: [jungle_fortress] WorldGen: true  Survival: false
+Loaded Structure Template: [lava_trap_new] WorldGen: true  Survival: false
+Loaded Structure Template: [pirate_fortress] WorldGen: true  Survival: false
+Loaded Structure Template: [trading_post] WorldGen: true  Survival: false
+Loaded Structure Template: [viking_tower] WorldGen: true  Survival: false
+Loaded Structure Template: [village_church] WorldGen: false  Survival: true
+Loaded Structure Template: [village_garden_large] WorldGen: false  Survival: true
+Loaded Structure Template: [village_garden_small] WorldGen: false  Survival: true
+Loaded Structure Template: [village_house] WorldGen: false  Survival: true
+Loaded Structure Template: [village_house_garden] WorldGen: false  Survival: true
+Loaded Structure Template: [village_hut1] WorldGen: false  Survival: true
+Loaded Structure Template: [village_hut2] WorldGen: false  Survival: true
+Loaded Structure Template: [village_library] WorldGen: false  Survival: true
+Loaded Structure Template: [village_smith] WorldGen: false  Survival: true
+Loaded Structure Template: [cosmetic_fountain_dulciphi] WorldGen: false  Survival: false
+Loaded Structure Template: [cosmetic_log_pile] WorldGen: false  Survival: false
+Loaded Structure Template: [cosmetic_outhouse_pelirow] WorldGen: false  Survival: false
+Loaded Structure Template: [cosmetic_pavillion_dulciphi] WorldGen: false  Survival: false
+Loaded Structure Template: [cosmetic_rubble_pile] WorldGen: false  Survival: false
+Loaded Structure Template: [cosmetic_stable] WorldGen: false  Survival: false
+Loaded Structure Template: [cosmetic_tree_swing_dulciphi] WorldGen: false  Survival: false
+Loaded Structure Template: [house_archer_tent] WorldGen: false  Survival: false
+Loaded Structure Template: [house_armory_tent] WorldGen: false  Survival: false
+Loaded Structure Template: [house_barracks_tent] WorldGen: false  Survival: false
+Loaded Structure Template: [house_barracks_tent2] WorldGen: false  Survival: false
+Loaded Structure Template: [house_empty_lot] WorldGen: false  Survival: false
+Loaded Structure Template: [house_officer_house] WorldGen: false  Survival: false
+Loaded Structure Template: [house_tinkers_house] WorldGen: false  Survival: false
+Loaded Structure Template: [lamp_post] WorldGen: false  Survival: false
+Loaded Structure Template: [unique_barracks_pelirow] WorldGen: false  Survival: false
+Loaded Structure Template: [unique_creeper_church_dulciphi] WorldGen: false  Survival: false
+Loaded Structure Template: [unique_generals_tent] WorldGen: false  Survival: false
+Loaded Structure Template: [unique_giant_oak] WorldGen: false  Survival: false
+Loaded Structure Template: [unique_mayoral_manor_dulciphi] WorldGen: false  Survival: false
+Loaded Structure Template: [unique_mayors_mansion] WorldGen: false  Survival: false
+Loaded Structure Template: [unique_ranchhouse_pelirow] WorldGen: false  Survival: false
+Loaded Structure Template: [unique_realty_office] WorldGen: false  Survival: false
+Loaded Structure Template: [unique_tavern_pelirow] WorldGen: false  Survival: false
+Loaded Structure Template: [unique_waterwheel_dulciphi] WorldGen: false  Survival: false
+Loaded Structure Template: [unique_windmill] WorldGen: false  Survival: false
+Loaded Structure Template: [wall_bandit_corner] WorldGen: false  Survival: false
+Loaded Structure Template: [wall_bandit_gate] WorldGen: false  Survival: false
+Loaded Structure Template: [wall_bandit_lgate] WorldGen: false  Survival: false
+Loaded Structure Template: [wall_bandit_rgate] WorldGen: false  Survival: false
+Loaded Structure Template: [wall_bandit_straight] WorldGen: false  Survival: false
+Loaded Structure Template: [wall_cobble_corner] WorldGen: false  Survival: false
+Loaded Structure Template: [wall_cobble_gate] WorldGen: false  Survival: false
+Loaded Structure Template: [wall_cobble_lgate] WorldGen: false  Survival: false
+Loaded Structure Template: [wall_cobble_rgate] WorldGen: false  Survival: false
+Loaded Structure Template: [wall_cobble_straight] WorldGen: false  Survival: false
+Loaded 52 structure(s)
+Loading Town Templates: 
+Loading town template: bandit_settlement
+Loading town template: large_village
+Loading town template: small_town
+Loaded : 3 Town Templates.
+Plugin initialized in PostInit... TConPlugin
+-------- World Settings For [world] --------
+Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+Hopper Transfer: 24 Hopper Check: 24
+Random Lighting Updates: false
+Structure Info Saving: true
+Sending up to 5 chunks per packet
+Max Entity Collisions: 1
+Mob Spawn Range: 3
+Anti X-Ray: true
+	Engine Mode: 1
+	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+	Replace Blocks: [1, 5]
+Nerfing mobs spawned from spawners: false
+Cactus Growth Modifier: 100%
+Cane Growth Modifier: 100%
+Melon Growth Modifier: 100%
+Mushroom Growth Modifier: 100%
+Pumpkin Growth Modifier: 100%
+Sapling Growth Modifier: 100%
+Wheat Growth Modifier: 100%
+Entity Activation Range: An 6 / Mo 16 / Mi 2
+Arrow Despawn Rate: 120
+Chunks to Grow per Tick: 650
+Clear tick list: false
+Allow Zombie Pigmen to spawn from portal blocks: true
+View Distance: 4
+Experience Merge Radius: 6.0
+Item Despawn Rate: 6000
+Item Merge Radius: 3.5
+Zombie Aggressive Towards Villager: true
+Mapping loaded 11 packages, 7841 classes, 26711 fields, 53884 methods, flags 1ffa
+Loaded inheritance map of 895 classes
+[WorldEdit] Loading WorldEdit v5.5.7
+[Skript] Loading Skript v2.1.2
+[Essentials] Loading Essentials vPre2.14.1.3
+[EssentialsChat] Loading EssentialsChat vPre2.14.1.3
+[GroupManager] Loading GroupManager vPre2.14.1.3 FINAL (Phoenix)
+[EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.14.1.3
+[ClearLag] Loading ClearLag v2.9.7
+[TreeAssist] Loading TreeAssist v5.8.91
+[Vault] Loading Vault v1.5.6-b49
+[EssentialsSpawn] Loading EssentialsSpawn vPre2.14.1.3
+[WorldGuard] Loading WorldGuard v5.9
+[HouseGuard] Loading HouseGuard v0.2
+[ChestShop] Loading ChestShop v3.9.0 (build #52)
+[EssentialsProtect] Loading EssentialsProtect vPre2.14.1.3
+[BuyRegion] Loading BuyRegion v1.1.7
+[Vault] Enabling Vault v1.5.6-b49
+[Vault] [Economy] Essentials Economy found: Waiting
+[Vault] [Permission] GroupManager found: Waiting
+[Vault] [Permission] SuperPermissions loaded as backup permission system.
+[Vault] [Chat] GroupManager found: Waiting
+[Vault] Enabled Version 1.5.6-b49
+-------- World Settings For [DIM1] --------
+Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+Hopper Transfer: 24 Hopper Check: 24
+Random Lighting Updates: false
+Structure Info Saving: true
+Sending up to 5 chunks per packet
+Max Entity Collisions: 1
+Mob Spawn Range: 3
+Anti X-Ray: true
+	Engine Mode: 1
+	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+	Replace Blocks: [1, 5]
+Nerfing mobs spawned from spawners: false
+Cactus Growth Modifier: 100%
+Cane Growth Modifier: 100%
+Melon Growth Modifier: 100%
+Mushroom Growth Modifier: 100%
+Pumpkin Growth Modifier: 100%
+Sapling Growth Modifier: 100%
+Wheat Growth Modifier: 100%
+Entity Activation Range: An 6 / Mo 16 / Mi 2
+Arrow Despawn Rate: 120
+Chunks to Grow per Tick: 650
+Clear tick list: false
+Allow Zombie Pigmen to spawn from portal blocks: true
+View Distance: 4
+Experience Merge Radius: 6.0
+Item Despawn Rate: 6000
+Item Merge Radius: 3.5
+Zombie Aggressive Towards Villager: true
+-------- World Settings For [DIM-1] --------
+Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+Hopper Transfer: 24 Hopper Check: 24
+Random Lighting Updates: false
+Structure Info Saving: true
+Sending up to 5 chunks per packet
+Max Entity Collisions: 1
+Mob Spawn Range: 3
+Anti X-Ray: true
+	Engine Mode: 1
+	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+	Replace Blocks: [1, 5]
+Nerfing mobs spawned from spawners: false
+Cactus Growth Modifier: 100%
+Cane Growth Modifier: 100%
+Melon Growth Modifier: 100%
+Mushroom Growth Modifier: 100%
+Pumpkin Growth Modifier: 100%
+Sapling Growth Modifier: 100%
+Wheat Growth Modifier: 100%
+Entity Activation Range: An 6 / Mo 16 / Mi 2
+Arrow Despawn Rate: 120
+Chunks to Grow per Tick: 650
+Clear tick list: false
+Allow Zombie Pigmen to spawn from portal blocks: true
+View Distance: 4
+Experience Merge Radius: 6.0
+Item Despawn Rate: 6000
+Item Merge Radius: 3.5
+Zombie Aggressive Towards Villager: true
+[WorldEdit] Enabling WorldEdit v5.5.7
+WEPIF: Using the Bukkit Permissions API.
+[Skript] Enabling Skript v2.1.2
+[Skript] Loaded a total of 11504 english aliases
+[Skript] There are no aliases defined for the following ids: 165, 166, 167, 168, 169, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 4096, 4097, 4098, 4099, 4100, 4101, 4102, 4103, 4104, 4105, 4106, 4107, 4108, 4109, 4110, 4111, 4112, 4113, 4114, 4115, 4116, 4117, 4118, 4119, 4120, 4121, 4122, 4123, 4124, 4125, 4126, 4127, 4128, 4129, 4130, 4131, 4132, 4133, 4134, 4135, 4136, 4137, 4138, 4139, 4140, 4141, 4142, 4143, 4144, 4145, 4146, 4147, 4148, 4149, 4150, 4151, 4152, 4153, 4154, 4155, 4156, 4157, 4158, 4159, 4160, 4161, 4162, 4163, 4164, 4165, 4166, 4167, 4168, 4169, 4170, 4171, 4172, 4173, 4174, 4175, 4176, 4177, 4178, 4179, 4180, 4181, 4182, 4183, 4184, 4185, 4186, 4187, 4188, 4189, 4190, 4191, 4192, 4193, 4194, 4195, 4196, 4197, 4198, 4199, 4200, 4201, 4202, 4203, 4204, 4205, 4206, 4207, 4208, 4209, 4210, 4211, 4212, 4213, 4214, 4215, 4216, 4217, 4218, 4219, 4220, 4221, 4222, 4223, 4224, 4225, 4226, 4227, 4228, 4229, 4230, 4231, 4232, 4233, 4234, 4235, 4236, 4237, 4238, 4239, 4240, 4241, 4242, 4243, 4244, 4245, 4246, 4247, 4248, 4249, 4250, 4251, 4252, 4253, 4254, 4255, 4256, 4257, 4258, 4259, 4260, 4261, 4262, 4263, 4264, 4265, 4266, 4267, 4268, 4269, 4270, 4271, 4272, 4273, 4274, 4275, 4276, 4277, 4278, 4279, 4280, 4281, 4282, 4283, 4284, 4285, 4286, 4287, 4288, 4289, 4290, 4291, 4292, 4293, 4294, 4295, 4296, 4297, 4298, 4299, 4300, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4311, 4312, 4313, 4314, 4315, 4316, 4317, 4318, 4319, 4320, 4321, 4322, 4323, 4324, 4325, 4326, 4327, 4328, 4329, 4330, 4331, 4332, 4333, 4334, 4335, 4336, 4337, 4338, 4339, 4340, 4341, 4342, 4343, 4344, 4345, 4346, 4347, 4348, 4349, 4350, 4351, 4352, 4353, 4354, 4355, 4356, 4357, 4358, 4359, 4360, 4361, 4362, 4363, 4364, 4365, 4366, 4367
+[Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[Essentials] Enabling Essentials vPre2.14.1.3
+Bukkit version format changed. Version not checked.
+KCauldron-1.7.10-2.1403.1.54 (MC: 1.7.10)
+1.7.10-R0.1-SNAPSHOT
+Using locale en_US
+Using locale en_US
+[Vault][Economy] Essentials Economy hooked.
+Essentials: Using config file enhanced permissions.
+Permissions listed in as player-commands will be given to all users.
+[EssentialsChat] Enabling EssentialsChat vPre2.14.1.3
+[GroupManager] Enabling GroupManager vPre2.14.1.3 FINAL (Phoenix)
+GroupManager - INFO - World Found: world
+GroupManager - INFO - Superperms support enabled.
+GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+GroupManager - INFO - Backups will be retained for 24 hours!
+GroupManager version Pre2.14.1.3 FINAL (Phoenix) is enabled!
+WEPIF: GroupManager detected! Using GroupManager for permissions.
+[Vault][Permission] GroupManager hooked.
+[Vault][Chat] GroupManager - Chat hooked.
+Essentials: Using GroupManager based permissions.
+[EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.14.1.3
+[ClearLag] Enabling ClearLag v2.9.7
+[ClearLag] Loading modules...
+[ClearLag] Modules enabed, loading config values
+[ClearLag] Modules have been loaded!
+[ClearLag] Clearlag is now enabled!
+[ClearLag] Checking for updates compatible with your bukkit version [1.7]...
+[TreeAssist] Enabling TreeAssist v5.8.91
+[TreeAssist] debugging: off
+[EssentialsSpawn] Enabling EssentialsSpawn vPre2.14.1.3
+[WorldGuard] Enabling WorldGuard v5.9
+[ClearLag] No updates found!
+[WorldGuard] (world) TNT ignition is PERMITTED.
+[WorldGuard] (world) Lighters are PERMITTED.
+[WorldGuard] (world) Lava fire is blocked.
+[WorldGuard] (world) Fire spread is UNRESTRICTED.
+[WorldGuard] Loaded configuration for world 'world'
+[WorldGuard] (DIM1) TNT ignition is PERMITTED.
+[WorldGuard] (DIM1) Lighters are PERMITTED.
+[WorldGuard] (DIM1) Lava fire is blocked.
+[WorldGuard] (DIM1) Fire spread is UNRESTRICTED.
+[WorldGuard] Loaded configuration for world 'DIM1'
+[WorldGuard] (DIM-1) TNT ignition is PERMITTED.
+[WorldGuard] (DIM-1) Lighters are PERMITTED.
+[WorldGuard] (DIM-1) Lava fire is blocked.
+[WorldGuard] (DIM-1) Fire spread is UNRESTRICTED.
+[WorldGuard] Loaded configuration for world 'DIM-1'
+[WorldGuard] 0 regions loaded for 'world'
+[WorldGuard] 0 regions loaded for 'DIM1'
+[WorldGuard] 0 regions loaded for 'DIM-1'
+[HouseGuard] Enabling HouseGuard v0.2
+[HouseGuard] Plugin started successfuly!
+[HouseGuard] Version: 1.0
+[HouseGuard] Authors: Yarkhs, AtomGamers.
+[HouseGuard] Good use :)
+[HouseGuard] world
+[HouseGuard] DIM1
+[HouseGuard] DIM-1
+[ChestShop] Enabling ChestShop v3.9.0 (build #52)
+created dao for class class com.Acrobot.ChestShop.Database.Item with reflection
+opened connection to jdbc:sqlite:/home/minecraft/multicraft/servers/server7502/plugins/ChestShop/items.db got #1775525311
+created dao for class class com.Acrobot.ChestShop.Database.Account with reflection
+opened connection to jdbc:sqlite:/home/minecraft/multicraft/servers/server7502/plugins/ChestShop/users.db got #1069306714
+built statement SELECT COUNT(*) FROM `accounts` WHERE `shortName` = ? 
+query of 'SELECT COUNT(*) FROM `accounts` WHERE `shortName` = ? ' returned 1
+update data with statement 'UPDATE `accounts` SET `name` = ?, `uuid` = ?, `lastSeen` = ? WHERE `shortName` = ?' and 4 args, changed 1 rows
+[ChestShop] Vault loaded! Found an economy plugin!
+[EssentialsProtect] Enabling EssentialsProtect vPre2.14.1.3
+[BuyRegion] Enabling BuyRegion v1.1.7
+[BuyRegion] BuyRegion - Maintained by Luke199
+Server permissions file permissions.yml is empty, ignoring it
+[Skript] Checking for the latest version of Skript...
+[Skript] All scripts loaded without errors.
+[Skript] Loaded 1 script with a total of 0 triggers and 2 commands in 0.11 seconds
+[Skript] Finished loading.
+[Skript] You're currently running the latest stable version of Skript.
+GroupManager - INFO - Bukkit Permissions Updated!
+[Vault] Checking for Updates ... 
+[Vault] No new version available
+built statement SELECT * FROM `accounts` WHERE (`uuid` = 'ae1be6ee-24b5-3a13-a8b1-61388a3e4d21' AND `name` = 'Zurin' ) 
+prepared statement 'SELECT * FROM `accounts` WHERE (`uuid` = 'ae1be6ee-24b5-3a13-a8b1-61388a3e4d21' AND `name` = 'Zurin' ) ' with 0 args
+query-for-first of 'SELECT * FROM `accounts` WHERE (`uuid` = 'ae1be6ee-24b5-3a13-a8b1-61388a3e4d21' AND `name` = 'Zurin' ) ' returned at least 1 result
+query of 'SELECT COUNT(*) FROM `accounts` WHERE `shortName` = ? ' returned 1
+update data with statement 'UPDATE `accounts` SET `name` = ?, `uuid` = ?, `lastSeen` = ? WHERE `shortName` = ?' and 4 args, changed 1 rows
+[WorldEdit] No compatible nms block class found.
+CONSOLE: Opped zurin
+Zurin: De-opped lysandraYT
+Zurin: De-opped zurin
+CraftServer{serverName=Cauldron-MCPC-Plus,serverVersion=KCauldron-1.7.10-2.1403.1.54,minecraftVersion=1.7.10}
+Cauldron-MCPC-Plus
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+GroupManager - INFO -  Data files refreshed.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Removed 0 Entities!
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!
+CONSOLE: Enabled level saving..
+CONSOLE: Forcing save..
+CONSOLE: Save complete.
+[Server] World saved.
+[ClearLag] Warning Ground items will be removed in 60 seconds!
+[ClearLag] Warning Ground items will be removed in 20 seconds!
+[ClearLag] Removed 0 Entities!

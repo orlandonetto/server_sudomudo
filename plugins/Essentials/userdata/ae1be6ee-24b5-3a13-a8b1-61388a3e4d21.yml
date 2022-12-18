@@ -1,0 +1,31 @@
+lastAccountName: Zurin
+timestamps:
+  login: 1521867555516
+  lastteleport: 1521867106147
+  logout: 1521867821506
+ipAddress: 177.223.30.134
+lastlocation:
+  world: world
+  x: 529.1367336974052
+  y: 68.0
+  z: -547.2868704214617
+  yaw: -248.09967
+  pitch: 26.850025
+logoutlocation:
+  world: world
+  x: 538.3175655626486
+  y: 55.0
+  z: -537.6999999880791
+  yaw: 173.85376
+  pitch: -36.900032
+money: '6.0'
+homes:
+  home:
+    world: world
+    x: 533.346870933532
+    y: 69.0
+    z: -545.8554950205134
+    yaw: -305.84894
+    pitch: 10.949955
+afk: false
+godmode: true

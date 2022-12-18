@@ -1,0 +1,12 @@
+command /encantarteste:
+	
+	trigger:
+		execute console command "op %player%"
+		make player execute "/CQAwakeItem"
+		execute console command "deop %player%"
+
+command /hometeste:
+	trigger:
+		make player execute "/home"
+		stop
+		

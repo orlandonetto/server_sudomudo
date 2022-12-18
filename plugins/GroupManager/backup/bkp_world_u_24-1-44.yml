@@ -1,0 +1,21 @@
+users:
+  ae1be6ee-24b5-3a13-a8b1-61388a3e4d21:
+    lastname: Zurin
+    group: Builder
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

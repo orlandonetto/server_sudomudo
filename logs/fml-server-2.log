@@ -1,0 +1,1184 @@
+[01:44:19] [main/INFO] [FML/]: Forge Mod Loader version 7.10.114.1388 for Minecraft 1.7.10 loading
+[01:44:20] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_72, running on Linux:amd64:2.6.32-573.12.1.el6.x86_64, installed at /opt/jdk1.8.0_72/jre
+[01:44:20] [main/WARN] [FML/]: The following coremods do not have a @MCVersion annotation. They may cause problems if this is not the correct version of Minecraft for them.
+[01:44:20] [main/WARN] [FML/]: Missing @MCVersion: invtweaks.forge.asm.FMLPlugin  
+[01:44:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:44:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[01:44:20] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:44:20] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:44:20] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:44:21] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:44:21] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:44:21] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[01:44:22] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[01:44:22] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[01:44:22] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:44:26] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[01:44:26] [Server thread/INFO] [FML/]: MinecraftForge v10.13.3.1403 Initialized
+[01:44:26] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[01:44:26] [Server thread/INFO] [FML/]: Preloading CrashReport classes
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$1
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$2
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$3
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$4
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.chunk.Chunk$1
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$1
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$2
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$3
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.entity.Entity$1
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.entity.Entity$2
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.entity.EntityTracker$1
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.layer.GenLayer$1
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.layer.GenLayer$2
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.entity.player.InventoryPlayer$1
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$1
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$2
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$3
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$3
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$4
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$5
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.nbt.NBTTagCompound$1
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.nbt.NBTTagCompound$2
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.network.NetHandlerPlayServer$2
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.network.NetworkSystem$3
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$1
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$2
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$3
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$1
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$2
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$3
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$4
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$5
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$6
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$7
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$8
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$9
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.server.dedicated.DedicatedServer$3
+[01:44:26] [Server thread/INFO] [FML/]: 	net.minecraft.server.dedicated.DedicatedServer$4
+[01:44:26] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[01:44:26] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[01:44:26] [Server thread/INFO] [FML/]: Searching /home/minecraft/multicraft/servers/server7502/mods for mods
+[01:44:27] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 22 mods to load
+[01:44:27] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, AncientWarfareAutomation, AncientWarfare, AncientWarfareNEIPlugin, AncientWarfareNpc, AncientWarfareStructure, Backpack, weaponmod, chocolateQuest, BiblioCraft, bspkrsCore, craftguide, CraftHeraldry, eplus, GollumCoreLib, inventorytweaks, lootablebodies, MoreFurnaces, DP_SimpleFlight, sit] at CLIENT
+[01:44:27] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, AncientWarfareAutomation, AncientWarfare, AncientWarfareNEIPlugin, AncientWarfareNpc, AncientWarfareStructure, Backpack, weaponmod, chocolateQuest, BiblioCraft, bspkrsCore, craftguide, CraftHeraldry, eplus, GollumCoreLib, inventorytweaks, lootablebodies, MoreFurnaces, DP_SimpleFlight, sit] at SERVER
+[01:44:28] [Server thread/ERROR] [Backpack/Backpack]: The mod Backpack is expecting signature @FINGERPRINT@ for source Backpacks-Mod.jar, however there is no signature matching that description
+[01:44:28] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[01:44:28] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[01:44:28] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[01:44:28] [Server thread/INFO] [FML/AncientWarfare]: InvTweaks: net.minecraft.inventory.Container
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:20 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:32 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/castles Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:22 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/castles/BigTree.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:21 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/castles/CastleEnd.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:22 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/castles/LakeCastle.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:22 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/castles/neaEkkleasia.xiraxis.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:22 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/castles/wizCastle.kanokarob.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:22 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:29 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/art_gallery.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:23 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/big_colisseum.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:23 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/big_mansion.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:24 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/blacksmith.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:24 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/colisseum.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:24 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/Dual_duplex.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:24 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/dungeon.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:24 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/farm.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:24 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/fat_tower.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:25 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/ghast_nest.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:25 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/gym.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:25 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/Hotel.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:26 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/houses.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:26 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/houses1.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:26 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/mage_tower.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:26 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/mansion1.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:26 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/mansion2.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:26 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/mansion3.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:27 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/mansion4.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:27 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/mansion5.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:27 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/Pig_farm.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:27 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/plaza.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:27 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/portal_temple.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:27 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/Prison.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:28 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/Pub.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:28 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/shop.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:28 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/small_mansion.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:28 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/Temple.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:28 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/Temple1.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:28 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/Temple2.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:29 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/temple_water.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:29 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/track.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:29 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/pigcity/tree_plaza.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:29 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/ships Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:32 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/ships/corruptedShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:30 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/ships/creeperShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:30 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/ships/Galleon.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:31 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/ships/GalleonCannons.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:31 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/ships/OceanWievShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:31 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/ships/PirateIsland.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:31 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/ships/RedFlagShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:32 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/ships/SkeleShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:32 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/ships/smallGalleon.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:32 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/ships/smallPirateShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:32 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/snowCastles Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:34 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/snowCastles/Cathedral.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:33 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/snowCastles/Redstone_castle.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:33 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Building/snowCastles/WolfVillage.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:34 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/ChestConfig Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:14 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/ChestConfig/chests.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:13 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/ChestConfig/food.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:13 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/ChestConfig/ores.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:14 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/ChestConfig/treasures.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:14 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/ChestConfig/weapons.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:14 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:47 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/castlesRandomized.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:15 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/castlesSchematic.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:15 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/castlesSchematicSnow.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:16 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/caveTests.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:16 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/netherCity.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:16 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/npcVillage.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:16 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/ship.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:16 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/stronghold.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:16 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/stronghold_desert.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:17 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:26 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/castles Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:50 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/castles/AlchemistCastle.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:49 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/castles/BigTree.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:49 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/castles/CastleEnd.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:49 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/castles/LakeCastle.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:19 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/castles/neaEkkleasia.xiraxis.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:50 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/castles/Ravine_castle.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:50 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/castles/wizCastle.kanokarob.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:50 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/export Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:52 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/export/Template.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:52 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:06 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/art_gallery.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:53 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/big_colisseum.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:53 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/big_mansion.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:54 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/blacksmith.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:54 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/colisseum.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:55 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/Dual_duplex.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:55 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/dungeon.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:55 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/farm.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:56 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/fat_tower.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:56 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/ghast_nest.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:56 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/gym.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:57 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/Hotel.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:57 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/houses.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:58 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/houses1.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:58 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/mage_tower.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:58 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/mansion1.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:59 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/mansion2.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:59 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/mansion3.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:59 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/mansion4.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:00 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/mansion5.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:01 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/Pig_farm.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:01 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/plaza.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:02 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/portal_temple.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:02 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/Prison.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:03 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/Pub.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:03 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/shop.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:03 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/small_mansion.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:04 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/Temple.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:04 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/Temple1.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:04 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/Temple2.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:05 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/temple_water.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:05 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/track.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:05 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/pigcity/tree_plaza.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:06 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/ships Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:12 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/ships/corruptedShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:07 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/ships/creeperShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:07 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/ships/Galleon.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:08 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/ships/GalleonCannons.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:09 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/ships/OceanWievShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:09 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/ships/PirateIsland.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:10 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/ships/RedFlagShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:11 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/ships/SkeleShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:11 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/ships/smallGalleon.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:11 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/ships/smallPirateShip.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:12 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/snowCastles Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:16 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/snowCastles/Cathedral.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:13 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/snowCastles/CubeCastle.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:14 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/snowCastles/MountainCastle.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:15 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/snowCastles/Redstone_castle.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:15 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/snowCastles/WolfVillage.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:38 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:04 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/boss_room Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:30 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/boss_room/bossLibrary.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:30 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/boss_room/bossRoom.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:30 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:33 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance/skull.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:31 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance/suspicious_trees.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:32 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance/tower.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:32 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance/tower2.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:32 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance/tower3.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:33 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance/tower4.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:33 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance/towerXiraxis.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:33 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance_desert Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:36 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance_desert/oasis.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:35 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance_desert/pyramid.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:35 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance_desert/pyramid_small.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:35 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance_desert/sphynx.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:36 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance_desert/sphynx_big.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:36 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance_desert/statues.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:36 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance_stairs Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:37 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/entrance_stairs/entranceStairs.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:38 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:03 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room0.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:39 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room1.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:39 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room10.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:39 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room100.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:39 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room101.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:39 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room102.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:02 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room11.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:40 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room12.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:40 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room13.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:40 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room14.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:41 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room15.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:41 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room16.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:41 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room17.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:42 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room18.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:42 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room19.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:42 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room2.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:43 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room20.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:43 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room21.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:43 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room22.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:44 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room23.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:44 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room24.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:44 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room25.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:45 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room26.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:45 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room27.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:45 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room28.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:46 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room29.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:46 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room3.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:46 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room30.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:47 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room31.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:47 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room32.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:47 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room33.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:48 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room34.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:48 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room35.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:48 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room36.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:49 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room37.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:49 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room38.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:49 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room39.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:50 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room4.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:50 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room40.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:50 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room41.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:51 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room42.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:51 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room43.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:51 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room44.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:52 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room45.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:52 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room46.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:53 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room47.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:53 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room48.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:53 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room49.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:54 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room5.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:54 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room50.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:54 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room51.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:55 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room52.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:55 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room53.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:55 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room54.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:56 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room55.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:56 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room56.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:56 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room57.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:57 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room58.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:57 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room59.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:57 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room6.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:58 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room60.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:58 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room61.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:58 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room62.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:59 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room63.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:22 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room64.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:02 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room7.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:03 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room8.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:03 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/rooms/room9.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:03 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/stairs Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:06 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/stairs/stairs0.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:05 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/stairs/stairs1.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:05 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/stairs/stairs2.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:05 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/stronghold/stairs/stairs3.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:16:06 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/village Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:22 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/village/Arena.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:20 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/village/Inn.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:21 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/village/InquisitionVilla.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:21 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/village/Market.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:21 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/village/OrcVillage.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:22 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/Building/village/WitchVilla.schematic Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:22 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/test Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:35 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/DungeonConfig/test/test.prop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:35 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:38 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/ogre.png Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:18 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/lang Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:25 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/lang/default.dialog Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:35 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/lang/default.es_ES.dialog Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:35 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/lang/default Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:24 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/lang/default/helloWorld.dialog Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:24 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/lang/default/inventory.dialog Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:24 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/lang/default/test.dialog Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:24 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/lang/es_ES Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:25 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/lang/es_ES/helloWorld.dialog Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:15:25 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/npcExport Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:37 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/npcExport/ArenaManager Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:37 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/npcExport/Inn keeper Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:37 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/npcExport/Mercenary Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:37 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/npcExport/Prisoner Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:37 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/npcExport/test1 Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:37 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:43 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/Blacksmith Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:39 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/Blacksmith.trade Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:39 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/DwarfBlacksmith Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:39 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/DwarfBlacksmith.trade Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:39 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/Guns.trade Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:40 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/GunShop Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:40 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/InnTrader.trade Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:40 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/InquisitionBlacksmith Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:40 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/InquisitionBlacksmith.trade Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:41 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/InquisitionBlacksmith2 Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:41 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/InquisitionBlacksmith2.trade Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:41 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/OrcArmor Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:41 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/OrcArmor.trade Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:41 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/OrcBlacksmith Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:41 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/OrcBlacksmith.trade Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:42 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/skellyShop.trade Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:42 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/staffVendor Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:42 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/staffVendor.trade Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:42 BRT 2018
+[01:44:30] [Server thread/INFO] [FML/chocolateQuest]: /home/minecraft/multicraft/servers/server7502/config/Chocolate/Quest/shopRecipes/WizardShop.trade Tue Jan 01 00:00:00 BRT 1980 Thu Mar 22 17:14:43 BRT 2018
+[01:44:30] [Server thread/INFO] [eplus/eplus]: Initializing Configurations.
+[01:44:30] [Server thread/INFO] [eplus/eplus]: Plugin loaded: TConPlugin
+[01:44:30] [Server thread/INFO] [eplus/eplus]: Plugin loaded: Treecapitatior
+[01:44:30] [Server thread/INFO] [eplus/eplus]: Plugin loaded: ThaumcraftPlugin
+[01:44:30] [Server thread/INFO] [eplus/eplus]: Plugin initialized in PreInit... Treecapitatior
+[01:44:30] [Server thread/INFO] [eplus/eplus]: Plugin initialized in PreInit... ThaumcraftPlugin
+[01:44:30] [Server thread/INFO] [eplus/eplus]: Initializing Blocks.
+[01:44:30] [Server thread/INFO] [eplus/eplus]: Initializing Items.
+[01:44:30] [Server thread/INFO] [GollumCoreLib/GollumCoreLib]: Read config : GollumCoreLib//GollumCoreLib.cfg
+[01:44:32] [Server thread/INFO] [SimpleFlightAPI/DP_SimpleFlight]: Simple Flight Event Handler has been registered.
+[01:44:32] [Server thread/INFO] [SimpleFlightAPI/DP_SimpleFlight]: Wing Dye & Enchantment handlers have been registered.
+[01:44:32] [Server thread/INFO] [SimpleFlight/DP_SimpleFlight]: Initialized items.
+[01:44:32] [Server thread/INFO] [SimpleFlight/DP_SimpleFlight]: Initialized item recipes.
+[01:44:32] [Server thread/INFO] [SimpleFlight/DP_SimpleFlight]: Registered items.
+[01:44:32] [Server thread/INFO] [SimpleFlight/DP_SimpleFlight]: Initialized item recipes.
+[01:44:32] [Server thread/INFO] [SimpleFlight/DP_SimpleFlight]: Registered item recipes.
+[01:44:32] [Server thread/INFO] [SimpleFlight/DP_SimpleFlight]: Simple Flight has pre-initialized.
+[01:44:32] [Server thread/INFO] [FML/]: Applying holder lookups
+[01:44:32] [Server thread/INFO] [FML/]: Holder lookups applied
+[01:44:33] [Server thread/INFO] [Minecraft/]: This server is running Cauldron-MCPC-Plus version KCauldron-1.7.10-2.1403.1.54 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[01:44:33] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[01:44:33] [Server thread/WARN] [FML/]: =============================================================
+[01:44:33] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:44:33] [Server thread/WARN] [FML/]: Offendor: org/spigotmc/RestartCommand.restart()V
+[01:44:33] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:44:33] [Server thread/WARN] [FML/]: =============================================================
+[01:44:33] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[01:44:33] [Server thread/INFO] [AncientWarfare/AncientWarfareNEIPlugin]: Skipping loading of NEI plugin, NEI not found!
+[01:44:33] [Server thread/INFO] [FML/chocolateQuest]: ## Dungeon register ##
+[01:44:33] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: stronghold_desert.prop
+[01:44:33] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: netherCity.prop
+[01:44:33] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: castlesRandomized.prop
+[01:44:33] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: caveTests.prop
+[01:44:33] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: npcVillage.prop
+[01:44:33] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: castlesSchematicSnow.prop
+[01:44:33] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: stronghold.prop
+[01:44:33] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: castlesSchematic.prop
+[01:44:33] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: ship.prop
+[01:44:33] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: test.prop
+[01:44:33] [Server thread/INFO] [bspkrsCore/bspkrsCore]: Initializing ModVersionChecker for mod bspkrsCore
+[01:44:34] [Server thread/INFO] [eplus/eplus]: Initializing GUI Handler.
+[01:44:34] [Server thread/INFO] [SimpleFlight/DP_SimpleFlight]: Simple Flight has initialized.
+[01:44:34] [Server thread/INFO] [eplus/eplus]: Add custom enchantment tool-tip for Treecapitating. Request sent from eplus
+[01:44:34] [Server thread/INFO] [eplus/eplus]: Add custom enchantment tool-tip for enchantment.frugal. Request sent from eplus
+[01:44:34] [Server thread/INFO] [eplus/eplus]: Add custom enchantment tool-tip for enchantment.charging. Request sent from eplus
+[01:44:34] [Server thread/INFO] [eplus/eplus]: Add custom enchantment tool-tip for enchantment.haste. Request sent from eplus
+[01:44:34] [Server thread/INFO] [eplus/eplus]: Add custom enchantment tool-tip for enchantment.repair. Request sent from eplus
+[01:44:34] [Server thread/INFO] [eplus/eplus]: Add custom enchantment tool-tip for enchantment.potency. Request sent from eplus
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded NPC Module Structure Plugin
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Automation Module Structure Plugin
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [big_fortress] WorldGen: true  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [desert_tower] WorldGen: true  Survival: false
+[01:44:34] [Server thread/ERROR] [AncientWarfare/AncientWarfareStructure]: Could not locate biome: desert oil field while registering template: desert_tower for world generation.
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [jungle_fortress] WorldGen: true  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [lava_trap_new] WorldGen: true  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [pirate_fortress] WorldGen: true  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [trading_post] WorldGen: true  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [viking_tower] WorldGen: true  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [village_church] WorldGen: false  Survival: true
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [village_garden_large] WorldGen: false  Survival: true
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [village_garden_small] WorldGen: false  Survival: true
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [village_house] WorldGen: false  Survival: true
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [village_house_garden] WorldGen: false  Survival: true
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [village_hut1] WorldGen: false  Survival: true
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [village_hut2] WorldGen: false  Survival: true
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [village_library] WorldGen: false  Survival: true
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [village_smith] WorldGen: false  Survival: true
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [cosmetic_fountain_dulciphi] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [cosmetic_log_pile] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [cosmetic_outhouse_pelirow] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [cosmetic_pavillion_dulciphi] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [cosmetic_rubble_pile] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [cosmetic_stable] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [cosmetic_tree_swing_dulciphi] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [house_archer_tent] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [house_armory_tent] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [house_barracks_tent] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [house_barracks_tent2] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [house_empty_lot] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [house_officer_house] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [house_tinkers_house] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [lamp_post] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [unique_barracks_pelirow] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [unique_creeper_church_dulciphi] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [unique_generals_tent] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [unique_giant_oak] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [unique_mayoral_manor_dulciphi] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [unique_mayors_mansion] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [unique_ranchhouse_pelirow] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [unique_realty_office] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [unique_tavern_pelirow] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [unique_waterwheel_dulciphi] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [unique_windmill] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [wall_bandit_corner] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [wall_bandit_gate] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [wall_bandit_lgate] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [wall_bandit_rgate] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [wall_bandit_straight] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [wall_cobble_corner] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [wall_cobble_gate] WorldGen: false  Survival: false
+[01:44:34] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [wall_cobble_lgate] WorldGen: false  Survival: false
+[01:44:35] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [wall_cobble_rgate] WorldGen: false  Survival: false
+[01:44:35] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded Structure Template: [wall_cobble_straight] WorldGen: false  Survival: false
+[01:44:35] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded 52 structure(s)
+[01:44:35] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loading Town Templates: 
+[01:44:35] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loading town template: bandit_settlement
+[01:44:35] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loading town template: large_village
+[01:44:35] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loading town template: small_town
+[01:44:35] [Server thread/INFO] [AncientWarfare/AncientWarfareStructure]: Loaded : 3 Town Templates.
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: ## Chest items register ##
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:healingPotion 1 to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Error loading item: chocolateQuest:healingPotion 1,0,20 into default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gunpowder to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:dye to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_ingot to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:arrow to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:bullet to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_horse_armor to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:wheat to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_horse_armor to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gold_ingot to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:emerald to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:leather to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_horse_armor to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:torch to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:saddle to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:lead to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:name_tag to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:coal to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:cookie to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:map to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:clock to default chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:elementStone to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:scouter to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:cursedBone to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:teleportStone to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:emerald to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:rustedDagger to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:rustedSword to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Error loading item: chocolateQuest:rustedSword,1,0,1 into treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:staffFire to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:staffLight to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:rustedBigSword to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:spiderhook to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:ender_pearl to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:cloudBoots to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:musket to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:potionsBag to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gold_block to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_apple to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:rustedSpear to treasure chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:bigswordDiamond to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:ironSwordAndShield to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_sword to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_boots to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:revolver to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_helmet to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_leggings to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_chestplate to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:manualshoot to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_leggings to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:daggerIron to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:staffPhysic to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_boots to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:spearIron to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_sword to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_helmet to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:staffBlast to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:staffMagic to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:diamondSwordAndShield to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_chestplate to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:daggerDiamond to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:musket to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_boots to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_leggings to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_leggings to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_sword to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:spearDiamond to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_boots to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_helmet to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:hookSword to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_chestplate to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_chestplate to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added chocolateQuest:bigswordIron to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_helmet to weapon chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gold_ingot to ores chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_ingot to ores chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:stick to ores chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:flint to ores chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:coal to ores chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:emerald to ores chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:redstone to ores chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond to ores chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chicken to food chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:cookie to food chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:melon to food chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:beef to food chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:potato to food chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:carrot to food chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:poisonous_potato to food chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:bread to food chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:porkchop to food chests list
+[01:44:35] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:apple to food chests list
+[01:44:35] [Server thread/INFO] [eplus/eplus]: Plugin initialized in PostInit... TConPlugin
+[01:44:35] [Server thread/INFO] [FML/Forge]:   Unknown recipe class! jds.bibliocraft.BiblioSpecialRecipes Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[01:44:35] [Server thread/INFO] [FML/Forge]:   Unknown recipe class! deep_ci.mcmods.simpleflight.item.crafting.WingDyeRecipes Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[01:44:35] [Server thread/INFO] [FML/Forge]:   Unknown recipe class! deep_ci.mcmods.simpleflight.item.crafting.EnchantmentRecipe Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[01:44:35] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 22 mods
+[01:44:35] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[01:44:35] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:44:35] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 6 / Mo 16 / Mi 2
+[01:44:35] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 24 Hopper Check: 24
+[01:44:35] [Server thread/INFO] [Minecraft/]: Random Lighting Updates: false
+[01:44:35] [Server thread/INFO] [Minecraft/]: Structure Info Saving: true
+[01:44:35] [Server thread/INFO] [Minecraft/]: Sending up to 5 chunks per packet
+[01:44:35] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 3
+[01:44:35] [Server thread/INFO] [Minecraft/]: Anti X-Ray: true
+[01:44:35] [Server thread/INFO] [Minecraft/]: 	Engine Mode: 1
+[01:44:35] [Server thread/INFO] [Minecraft/]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[01:44:35] [Server thread/INFO] [Minecraft/]: 	Replace Blocks: [1, 5]
+[01:44:35] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[01:44:35] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[01:44:35] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[01:44:35] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[01:44:35] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[01:44:35] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[01:44:35] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[01:44:35] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[01:44:35] [Server thread/INFO] [Minecraft/]: Max Entity Collisions: 1
+[01:44:35] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:44:35] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 120
+[01:44:35] [Server thread/INFO] [Minecraft/]: Chunks to Grow per Tick: 650
+[01:44:35] [Server thread/INFO] [Minecraft/]: Clear tick list: false
+[01:44:35] [Server thread/INFO] [Minecraft/]: View Distance: 4
+[01:44:35] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 6.0
+[01:44:35] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[01:44:35] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 3.5
+[01:44:35] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[01:44:35] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[01:44:35] [Server thread/INFO] [FML/]: Applying holder lookups
+[01:44:35] [Server thread/INFO] [FML/]: Holder lookups applied
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFARE_ENGINEERING_STATION with ID 165.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFARE_RESEARCH_STATION with ID 166.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_CIVIC_QUARRY with ID 167.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_CIVIC_FORESTRY with ID 168.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_CIVIC_CROP_FARM with ID 169.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_CIVIC_MUSHROOM_FARM with ID 176.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_CIVIC_ANIMAL_FARM with ID 177.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_CIVIC_FISH_FARM with ID 178.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_CIVIC_REED_FARM with ID 179.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_CIVIC_WAREHOUSE with ID 180.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_WAREHOUSE_STORAGE with ID 181.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_WAREHOUSE_INTERFACE with ID 182.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_WAREHOUSE_CRAFTING_STATION with ID 183.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_WAREHOUSE_STOCK_VIEWER with ID 184.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_CIVIC_AUTO_CRAFTING with ID 185.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_MAILBOX with ID 186.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_FLYWHEEL with ID 187.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_FLYWHEEL_STORAGE with ID 188.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_TORQUE_CONDUIT with ID 189.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_TORQUE_SHAFT with ID 190.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_TORQUE_DISTRIBUTOR with ID 191.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_TORQUE_GENERATOR_STERLING with ID 192.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_TORQUE_GENERATOR_WATERWHEEL with ID 193.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_HAND_CRANKED_ENGINE with ID 194.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_WINDMILL_BLADE with ID 195.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_WINDMILL_CONTROL with ID 196.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_CHUNK_LOADER_SIMPLE with ID 197.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFAREAUTOMATION_CHUNK_LOADER_DELUXE with ID 198.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFARENPC_TOWN_HALL with ID 199.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFARESTRUCTURE_ADVANCED_SPAWNER with ID 200.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFARESTRUCTURE_GATE_PROXY with ID 201.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFARESTRUCTURE_DRAFTING_STATION with ID 202.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFARESTRUCTURE_STRUCTURE_BUILDER_TICKED with ID 203.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material ANCIENTWARFARESTRUCTURE_SOUND_BLOCK with ID 204.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material CHOCOLATEQUEST_CQSPAWNER with ID 205.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material CHOCOLATEQUEST_EXPORTER with ID 206.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material CHOCOLATEQUEST_ARMORSTAND with ID 207.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material CHOCOLATEQUEST_BANNERSTAND with ID 208.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material CHOCOLATEQUEST_TABLE with ID 209.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material CHOCOLATEQUEST_DUNGEONBRICK with ID 210.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material CHOCOLATEQUEST_EXPORTERCHEST with ID 211.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material CHOCOLATEQUEST_NONE with ID 212.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOPANELER with ID 213.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOCLIPBOARD with ID 214.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOTYPEWRITER with ID 215.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOCLOCK with ID 216.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOFLATPAINTING with ID 217.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOSIMPLEPAINTING with ID 218.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOMIDDLEPAINTING with ID 219.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOFANCYPAINTING with ID 220.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOBORDERLESSPAINTING with ID 221.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOPAINTPRESS with ID 222.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOSWORDPEDESTAL with ID 223.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOFANCYSIGN with ID 224.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOWORKBENCH with ID 225.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOBELL with ID 226.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOTHECA with ID 227.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BOOKCASEFILLED with ID 228.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOPOTIONSHELF with ID 229.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOSHELF with ID 230.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIORACK with ID 231.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOCASE with ID 232.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOLABEL with ID 233.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIODESK with ID 234.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOTABLE with ID 235.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_ARMOR_STAND with ID 236.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_TYPESETTING_MACHINE with ID 237.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_PRINTING_PRESS with ID 238.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOLANTERN with ID 239.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOIRONLANTERN with ID 240.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOLAMP with ID 241.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOIRONLAMP with ID 242.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOSTUFFS with ID 243.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOMAPFRAMES with ID 244.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material BIBLIOCRAFT_BIBLIOSEATS with ID 245.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material CRAFTHERALDRY_BLOCKHERALDRY with ID 246.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material EPLUS_TILEADVANCEDENCHANTMENTTABLE with ID 247.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material GOLLUMCORELIB_BLOCKPROXIMITYSPAWN with ID 248.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge block material MOREFURNACES_FURNACEBLOCK with ID 249.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_RESEARCH_BOOK with ID 4096.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_RESEARCH_NOTE with ID 4097.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_BACKPACK with ID 4098.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_WOODEN_HAMMER with ID 4099.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_STONE_HAMMER with ID 4100.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_IRON_HAMMER with ID 4101.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_GOLD_HAMMER with ID 4102.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_DIAMOND_HAMMER with ID 4103.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_WOODEN_QUILL with ID 4104.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_STONE_QUILL with ID 4105.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_IRON_QUILL with ID 4106.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_GOLD_QUILL with ID 4107.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_DIAMOND_QUILL with ID 4108.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_COMPONENT with ID 4109.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARE_STEEL_INGOT with ID 4110.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFAREAUTOMATION_WORKSITE_UPGRADE with ID 4111.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_NPC_SPAWNER with ID 4112.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_WORK_ORDER with ID 4113.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_UPKEEP_ORDER with ID 4114.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_COMBAT_ORDER with ID 4115.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_ROUTING_ORDER with ID 4116.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_TRADE_ORDER with ID 4117.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_WOODEN_COMMAND_BATON with ID 4118.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_STONE_COMMAND_BATON with ID 4119.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_IRON_COMMAND_BATON with ID 4120.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_GOLD_COMMAND_BATON with ID 4121.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_DIAMOND_COMMAND_BATON with ID 4122.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_BARD_INSTRUMENT with ID 4123.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_WOODEN_SHIELD with ID 4124.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_STONE_SHIELD with ID 4125.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_IRON_SHIELD with ID 4126.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_GOLD_SHIELD with ID 4127.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARENPC_DIAMOND_SHIELD with ID 4128.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARESTRUCTURE_STRUCTURE_SCANNER with ID 4129.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARESTRUCTURE_STRUCTURE_BUILDER with ID 4130.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARESTRUCTURE_STRUCTURE_BUILDER_WORLD_GEN with ID 4131.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARESTRUCTURE_TOWN_BUILDER with ID 4132.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARESTRUCTURE_SPAWNER_PLACER with ID 4133.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARESTRUCTURE_GATE_SPAWNER with ID 4134.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARESTRUCTURE_CONSTRUCTION_TOOL with ID 4135.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARESTRUCTURE_CONSTRUCTION_TOOL_LAKES with ID 4136.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material ANCIENTWARFARESTRUCTURE_BLOCK_INFO_CLICKER with ID 4137.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BACKPACK_BACKPACK with ID 4138.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BACKPACK_WORKBENCHBACKPACK with ID 4139.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BACKPACK_BOUNDLEATHER with ID 4140.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BACKPACK_TANNEDLEATHER with ID 4141.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SPEARWOOD with ID 4142.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SPEARSTONE with ID 4143.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SPEARIRON with ID 4144.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SPEARGOLD with ID 4145.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SPEARDIAMOND with ID 4146.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_HALBERDWOOD with ID 4147.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_HALBERDSTONE with ID 4148.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_HALBERDIRON with ID 4149.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_HALBERDGOLD with ID 4150.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_HALBERDDIAMOND with ID 4151.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BATTLEAXEWOOD with ID 4152.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BATTLEAXESTONE with ID 4153.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BATTLEAXEIRON with ID 4154.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BATTLEAXEGOLD with ID 4155.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BATTLEAXEDIAMOND with ID 4156.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KNIFEWOOD with ID 4157.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KNIFESTONE with ID 4158.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KNIFEIRON with ID 4159.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KNIFEGOLD with ID 4160.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KNIFEDIAMOND with ID 4161.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_WARHAMMERWOOD with ID 4162.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_WARHAMMERSTONE with ID 4163.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_WARHAMMERIRON with ID 4164.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_WARHAMMERGOLD with ID 4165.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_WARHAMMERDIAMOND with ID 4166.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLAILWOOD with ID 4167.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLAILSTONE with ID 4168.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLAILIRON with ID 4169.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLAILGOLD with ID 4170.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLAILDIAMOND with ID 4171.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KATANAWOOD with ID 4172.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KATANASTONE with ID 4173.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KATANAIRON with ID 4174.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KATANAGOLD with ID 4175.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_KATANADIAMOND with ID 4176.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOOMERANGWOOD with ID 4177.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOOMERANGSTONE with ID 4178.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOOMERANGIRON with ID 4179.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOOMERANGGOLD with ID 4180.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOOMERANGDIAMOND with ID 4181.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FIREROD with ID 4182.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_JAVELIN with ID 4183.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_CROSSBOW with ID 4184.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BOLT with ID 4185.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BLOWGUN with ID 4186.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_DART with ID 4187.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETBAYONETWOOD with ID 4188.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETBAYONETSTONE with ID 4189.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETBAYONETIRON with ID 4190.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETBAYONETGOLD with ID 4191.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETBAYONETDIAMOND with ID 4192.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKET with ID 4193.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_MUSKETIRONPART with ID 4194.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BLUNDERBUSS with ID 4195.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BLUNDERIRONPART with ID 4196.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_SHOT with ID 4197.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_FLINTLOCK with ID 4198.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_DYNAMITE with ID 4199.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_CANNON with ID 4200.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_CANNONBALL with ID 4201.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_DUMMY with ID 4202.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_GUNSTOCK with ID 4203.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material WEAPONMOD_BULLET with ID 4204.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_EGG with ID 4205.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_PICKAXEMAGIC with ID 4206.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MOBTOSPAWNER with ID 4207.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_RUSTEDDAGGER with ID 4208.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_RUSTEDBIGSWORD with ID 4209.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_RUSTEDSPEAR with ID 4210.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_RUSTEDSWORDANDSHIED with ID 4211.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_HOOKSWORD with ID 4212.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_IRONSWORDANDSHIELD with ID 4213.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DIAMONDSWORDANDSHIELD with ID 4214.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MOONSWORD with ID 4215.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DEFENSESWORD with ID 4216.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_WALKERSWORD with ID 4217.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SWORDTURTLE with ID 4218.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SWORDSPIDER with ID 4219.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SWORDSHIEDMONKING with ID 4220.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DAGGERIRON with ID 4221.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DAGGERDIAMOND with ID 4222.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_PIRATEDAGGER with ID 4223.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_NINJADAGGER with ID 4224.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DAGGERMONKING with ID 4225.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SPEARIRON with ID 4226.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SPEARDIAMOND with ID 4227.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SPEARGUN with ID 4228.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DWARFSPEAR with ID 4229.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BIGSWORDIRON with ID 4230.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BIGSWORDDIAMOND with ID 4231.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BIGSWORDBULL with ID 4232.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SWORDMONKING with ID 4233.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BANNER with ID 4234.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SHIELD with ID 4235.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DRAGONHELMET with ID 4236.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SCOUTER with ID 4237.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_WITCHHAT with ID 4238.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_CLOUDBOOTS with ID 4239.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_KINGARMOR with ID 4240.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SLIMEHELMET with ID 4241.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SLIMEPLATE with ID 4242.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SLIMEPANTS with ID 4243.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SLIMEBOOTS with ID 4244.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_TURTLEHELMET with ID 4245.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_TURTLEPLATE with ID 4246.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_TURTLEPANTS with ID 4247.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_TURTLEBOOTS with ID 4248.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BULLHELMET with ID 4249.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BULLPLATE with ID 4250.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BULLPANTS with ID 4251.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BULLBOOTS with ID 4252.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SPIDERHELMET with ID 4253.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SPIDERPLATE with ID 4254.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SPIDERPANTS with ID 4255.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SPIDERBOOTS with ID 4256.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DIAMONDHEAVYHELMET with ID 4257.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DIAMONDHEAVYPLATE with ID 4258.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DIAMONDHEAVYPANTS with ID 4259.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DIAMONDHEAVYBOOTS with ID 4260.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_IRONHEAVYHELMET with ID 4261.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_IRONHEAVYPLATE with ID 4262.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_IRONHEAVYPANTS with ID 4263.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_IRONHEAVYBOOTS with ID 4264.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_INQUISITIONHELMET with ID 4265.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_INQUISITIONPLATE with ID 4266.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_INQUISITIONPANTS with ID 4267.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_INQUISITIONBOOTS with ID 4268.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DIAMONDCOLOREDHELMET with ID 4269.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DIAMONDCOLOREDPLATE with ID 4270.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DIAMONDCOLOREDPANTS with ID 4271.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_DIAMONDCOLOREDBOOTS with ID 4272.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_IRONCOLOREDHELMET with ID 4273.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_IRONCOLOREDPLATE with ID 4274.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_IRONCOLOREDPANTS with ID 4275.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_IRONCOLOREDBOOTS with ID 4276.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MAGEROBE with ID 4277.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_STAFFLIFE with ID 4278.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_STAFFPHYSIC with ID 4279.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_STAFFMAGIC with ID 4280.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_STAFFFIRE with ID 4281.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_STAFFBLAST with ID 4282.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_STAFFLIGHT with ID 4283.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SPELL with ID 4284.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_HEALINGPOTION with ID 4285.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_POTIONSBAG with ID 4286.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_REVOLVER with ID 4287.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MECHA with ID 4288.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MECHAHEAVY with ID 4289.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_GOLEMUPGRADE with ID 4290.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_GOLEMGUN with ID 4291.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_GOLEMFLAMETHROWER with ID 4292.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_GOLEMRAILGUN with ID 4293.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_GOLEMCANNON with ID 4294.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_GOLEMBUBBLECANNON with ID 4295.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_GOLEMMACHINEGUN with ID 4296.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_AMMOLOADER with ID 4297.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BULLET with ID 4298.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MATERIAL with ID 4299.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_CURSEDBONE with ID 4300.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_HOOKSHOOT with ID 4301.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_LONGSHOOT with ID 4302.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MANUALSHOOT with ID 4303.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SPIDERHOOK with ID 4304.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_PATHMARKER with ID 4305.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_CONTROLLER with ID 4306.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_CONTROLLERTEAM with ID 4307.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SOULBOTTLE with ID 4308.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BADGE with ID 4309.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MUSKET with ID 4310.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SHOTGUN with ID 4311.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BATTLE_AXE_BULL with ID 4312.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_TELEPORTSTONE with ID 4313.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MININGDISRUPTOR with ID 4314.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_ELEMENTSTONE with ID 4315.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_SPEARSPIDER with ID 4316.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_BACKPACK with ID 4317.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MAGEHOOD with ID 4318.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MAGEJACKET with ID 4319.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MAGESKIRT with ID 4320.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CHOCOLATEQUEST_MAGEBOOTS with ID 4321.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMPLUMBLINE with ID 4322.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMFRAMINGSAW with ID 4323.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMFRAMINGBOARD with ID 4324.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMFRAMINGSHEET with ID 4325.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMTESTERITEM with ID 4326.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMATLASBOOK with ID 4327.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMATLASPLATE with ID 4328.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMDEATHCOMPASS with ID 4329.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMPAINTINGCANVAS with ID 4330.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMBIGBOOK with ID 4331.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMRECIPEBOOK with ID 4332.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMSLOTTEDBOOK with ID 4333.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMHANDDRILL with ID 4334.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMTAPEMEASURE with ID 4335.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMTAPE with ID 4336.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMBIBLIOCHASE with ID 4337.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMPRINTPLATE with ID 4338.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMENCHANTEDPLATE with ID 4339.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMBIBLIOREDBOOK with ID 4340.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMBIBLIOGLASSES with ID 4341.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMBIBLIODRILL with ID 4342.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMBIBLIOCREATIVELOCK with ID 4343.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMBIBLIOCLIPBOARD with ID 4344.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMSEATBACK with ID 4345.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMSEATBACK2 with ID 4346.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMSEATBACK3 with ID 4347.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMSEATBACK4 with ID 4348.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMSEATBACK5 with ID 4349.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMBIBLIOMAPTOOL with ID 4350.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material BIBLIOCRAFT_ITEMBIBLIOWAYPOINTCOMPASS with ID 4351.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CRAFTGUIDE_CRAFTGUIDE_ITEM with ID 4352.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material CRAFTHERALDRY_ITEMHERALDRY with ID 4353.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material EPLUS_ITEMTABLEUPGRADE with ID 4354.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material GOLLUMCORELIB_BUILDING with ID 4355.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material GOLLUMCORELIB_WRENCH with ID 4356.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material GOLLUMCORELIB_INFOS with ID 4357.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material DP_SIMPLEFLIGHT_LEATHER_GLIDER with ID 4358.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material DP_SIMPLEFLIGHT_LEATHER_WINGS with ID 4359.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material DP_SIMPLEFLIGHT_GOLD_FEATHER_WINGS with ID 4360.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material DP_SIMPLEFLIGHT_GOLD_LEATHER_WINGS with ID 4361.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material DP_SIMPLEFLIGHT_IRON_FEATHER_WINGS with ID 4362.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material DP_SIMPLEFLIGHT_IRON_LEATHER_WINGS with ID 4363.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material DP_SIMPLEFLIGHT_DIAMOND_FEATHER_WINGS with ID 4364.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material DP_SIMPLEFLIGHT_DIAMOND_LEATHER_WINGS with ID 4365.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material DP_SIMPLEFLIGHT_JETPACK with ID 4366.
+[01:44:35] [Server thread/INFO] [FML/]: Injected new Forge item material DP_SIMPLEFLIGHT_JETGLIDER with ID 4367.
+[01:44:36] [Server thread/INFO] [/]: Mapping loaded 11 packages, 7841 classes, 26711 fields, 53884 methods, flags 1ffa
+[01:44:36] [Server thread/INFO] [/]: Loaded inheritance map of 895 classes
+[01:44:36] [Server thread/WARN] [FML/]: =============================================================
+[01:44:36] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:44:36] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[01:44:36] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:44:36] [Server thread/WARN] [FML/]: =============================================================
+[01:44:36] [Server thread/WARN] [FML/]: =============================================================
+[01:44:36] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:44:36] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[01:44:36] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:44:36] [Server thread/WARN] [FML/]: =============================================================
+[01:44:36] [Server thread/WARN] [FML/]: =============================================================
+[01:44:36] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:44:36] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[01:44:36] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:44:36] [Server thread/WARN] [FML/]: =============================================================
+[01:44:36] [Server thread/WARN] [FML/]: =============================================================
+[01:44:36] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:44:36] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[01:44:36] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:44:36] [Server thread/WARN] [FML/]: =============================================================
+[01:44:37] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Loading WorldEdit v5.5.7
+[01:44:37] [Server thread/INFO] [ch.njol.skript.Skript/]: [Skript] Loading Skript v2.1.2
+[01:44:37] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Loading Essentials vPre2.14.1.3
+[01:44:37] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Loading EssentialsChat vPre2.14.1.3
+[01:44:37] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Loading GroupManager vPre2.14.1.3 FINAL (Phoenix)
+[01:44:37] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.14.1.3
+[01:44:37] [Server thread/INFO] [me.minebuilders.clearlag.Clearlag/]: [ClearLag] Loading ClearLag v2.9.7
+[01:44:37] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] Loading TreeAssist v5.8.91
+[01:44:37] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Loading Vault v1.5.6-b49
+[01:44:37] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Loading EssentialsSpawn vPre2.14.1.3
+[01:44:37] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Loading WorldGuard v5.9
+[01:44:37] [Server thread/INFO] [com.hg.HouseGuard/]: [HouseGuard] Loading HouseGuard v0.2
+[01:44:37] [Server thread/INFO] [com.Acrobot.ChestShop.ChestShop/]: [ChestShop] Loading ChestShop v3.9.0 (build #52)
+[01:44:37] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Loading EssentialsProtect vPre2.14.1.3
+[01:44:37] [Server thread/INFO] [com.region.BuyRegion/]: [BuyRegion] Loading BuyRegion v1.1.7
+[01:44:37] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Enabling Vault v1.5.6-b49
+[01:44:37] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] [Economy] Essentials Economy found: Waiting
+[01:44:37] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] [Permission] GroupManager found: Waiting
+[01:44:37] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[01:44:37] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] [Chat] GroupManager found: Waiting
+[01:44:37] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Enabled Version 1.5.6-b49
+[01:44:37] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4afc5ec3)
+[01:44:37] [Server thread/INFO] [Minecraft/]: -------- World Settings For [DIM1] --------
+[01:44:37] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:44:37] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 6 / Mo 16 / Mi 2
+[01:44:37] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 24 Hopper Check: 24
+[01:44:37] [Server thread/INFO] [Minecraft/]: Random Lighting Updates: false
+[01:44:37] [Server thread/INFO] [Minecraft/]: Structure Info Saving: true
+[01:44:37] [Server thread/INFO] [Minecraft/]: Sending up to 5 chunks per packet
+[01:44:37] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 3
+[01:44:37] [Server thread/INFO] [Minecraft/]: Anti X-Ray: true
+[01:44:37] [Server thread/INFO] [Minecraft/]: 	Engine Mode: 1
+[01:44:37] [Server thread/INFO] [Minecraft/]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[01:44:37] [Server thread/INFO] [Minecraft/]: 	Replace Blocks: [1, 5]
+[01:44:37] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[01:44:37] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Max Entity Collisions: 1
+[01:44:37] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:44:37] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 120
+[01:44:37] [Server thread/INFO] [Minecraft/]: Chunks to Grow per Tick: 650
+[01:44:37] [Server thread/INFO] [Minecraft/]: Clear tick list: false
+[01:44:37] [Server thread/INFO] [Minecraft/]: View Distance: 4
+[01:44:37] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 6.0
+[01:44:37] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[01:44:37] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 3.5
+[01:44:37] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[01:44:37] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@4afc5ec3)
+[01:44:37] [Server thread/INFO] [Minecraft/]: -------- World Settings For [DIM-1] --------
+[01:44:37] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:44:37] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 6 / Mo 16 / Mi 2
+[01:44:37] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 24 Hopper Check: 24
+[01:44:37] [Server thread/INFO] [Minecraft/]: Random Lighting Updates: false
+[01:44:37] [Server thread/INFO] [Minecraft/]: Structure Info Saving: true
+[01:44:37] [Server thread/INFO] [Minecraft/]: Sending up to 5 chunks per packet
+[01:44:37] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 3
+[01:44:37] [Server thread/INFO] [Minecraft/]: Anti X-Ray: true
+[01:44:37] [Server thread/INFO] [Minecraft/]: 	Engine Mode: 1
+[01:44:37] [Server thread/INFO] [Minecraft/]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[01:44:37] [Server thread/INFO] [Minecraft/]: 	Replace Blocks: [1, 5]
+[01:44:37] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[01:44:37] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[01:44:37] [Server thread/INFO] [Minecraft/]: Max Entity Collisions: 1
+[01:44:37] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:44:37] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 120
+[01:44:37] [Server thread/INFO] [Minecraft/]: Chunks to Grow per Tick: 650
+[01:44:37] [Server thread/INFO] [Minecraft/]: Clear tick list: false
+[01:44:37] [Server thread/INFO] [Minecraft/]: View Distance: 4
+[01:44:37] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 6.0
+[01:44:37] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[01:44:37] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 3.5
+[01:44:37] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[01:44:37] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@4afc5ec3)
+[01:44:39] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Enabling WorldEdit v5.5.7
+[01:44:39] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[01:44:39] [Server thread/INFO] [ch.njol.skript.Skript/]: [Skript] Enabling Skript v2.1.2
+[01:44:41] [Server thread/INFO] [Minecraft/]: [Skript] Loaded a total of 11504 english aliases
+[01:44:41] [Server thread/WARN] [Minecraft/]: [Skript] There are no aliases defined for the following ids: 165, 166, 167, 168, 169, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 4096, 4097, 4098, 4099, 4100, 4101, 4102, 4103, 4104, 4105, 4106, 4107, 4108, 4109, 4110, 4111, 4112, 4113, 4114, 4115, 4116, 4117, 4118, 4119, 4120, 4121, 4122, 4123, 4124, 4125, 4126, 4127, 4128, 4129, 4130, 4131, 4132, 4133, 4134, 4135, 4136, 4137, 4138, 4139, 4140, 4141, 4142, 4143, 4144, 4145, 4146, 4147, 4148, 4149, 4150, 4151, 4152, 4153, 4154, 4155, 4156, 4157, 4158, 4159, 4160, 4161, 4162, 4163, 4164, 4165, 4166, 4167, 4168, 4169, 4170, 4171, 4172, 4173, 4174, 4175, 4176, 4177, 4178, 4179, 4180, 4181, 4182, 4183, 4184, 4185, 4186, 4187, 4188, 4189, 4190, 4191, 4192, 4193, 4194, 4195, 4196, 4197, 4198, 4199, 4200, 4201, 4202, 4203, 4204, 4205, 4206, 4207, 4208, 4209, 4210, 4211, 4212, 4213, 4214, 4215, 4216, 4217, 4218, 4219, 4220, 4221, 4222, 4223, 4224, 4225, 4226, 4227, 4228, 4229, 4230, 4231, 4232, 4233, 4234, 4235, 4236, 4237, 4238, 4239, 4240, 4241, 4242, 4243, 4244, 4245, 4246, 4247, 4248, 4249, 4250, 4251, 4252, 4253, 4254, 4255, 4256, 4257, 4258, 4259, 4260, 4261, 4262, 4263, 4264, 4265, 4266, 4267, 4268, 4269, 4270, 4271, 4272, 4273, 4274, 4275, 4276, 4277, 4278, 4279, 4280, 4281, 4282, 4283, 4284, 4285, 4286, 4287, 4288, 4289, 4290, 4291, 4292, 4293, 4294, 4295, 4296, 4297, 4298, 4299, 4300, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4311, 4312, 4313, 4314, 4315, 4316, 4317, 4318, 4319, 4320, 4321, 4322, 4323, 4324, 4325, 4326, 4327, 4328, 4329, 4330, 4331, 4332, 4333, 4334, 4335, 4336, 4337, 4338, 4339, 4340, 4341, 4342, 4343, 4344, 4345, 4346, 4347, 4348, 4349, 4350, 4351, 4352, 4353, 4354, 4355, 4356, 4357, 4358, 4359, 4360, 4361, 4362, 4363, 4364, 4365, 4366, 4367
+[01:44:41] [Server thread/INFO] [Minecraft/]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[01:44:41] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Enabling Essentials vPre2.14.1.3
+[01:44:41] [Server thread/INFO] [Essentials/]: Bukkit version format changed. Version not checked.
+[01:44:41] [Server thread/INFO] [Essentials/]: KCauldron-1.7.10-2.1403.1.54 (MC: 1.7.10)
+[01:44:41] [Server thread/INFO] [Essentials/]: 1.7.10-R0.1-SNAPSHOT
+[01:44:41] [Server thread/INFO] [Essentials/]: Using locale en_US
+[01:44:41] [Server thread/INFO] [Essentials/]: Using locale en_US
+[01:44:42] [Server thread/INFO] [Minecraft/]: [Vault][Economy] Essentials Economy hooked.
+[01:44:42] [Server thread/INFO] [Essentials/]: Essentials: Using config file enhanced permissions.
+[01:44:42] [Server thread/INFO] [Essentials/]: Permissions listed in as player-commands will be given to all users.
+[01:44:42] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Enabling EssentialsChat vPre2.14.1.3
+[01:44:42] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Enabling GroupManager vPre2.14.1.3 FINAL (Phoenix)
+[01:44:42] [Server thread/INFO] [/]: GroupManager - INFO - World Found: world
+[01:44:42] [Server thread/INFO] [/]: GroupManager - INFO - Superperms support enabled.
+[01:44:42] [Server thread/INFO] [/]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[01:44:42] [Server thread/INFO] [/]: GroupManager - INFO - Backups will be retained for 24 hours!
+[01:44:42] [Server thread/INFO] [/]: GroupManager version Pre2.14.1.3 FINAL (Phoenix) is enabled!
+[01:44:42] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[01:44:42] [Server thread/INFO] [Minecraft/]: [Vault][Permission] GroupManager hooked.
+[01:44:42] [Server thread/INFO] [Minecraft/]: [Vault][Chat] GroupManager - Chat hooked.
+[01:44:42] [Server thread/INFO] [Essentials/]: Essentials: Using GroupManager based permissions.
+[01:44:42] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.14.1.3
+[01:44:42] [Server thread/INFO] [me.minebuilders.clearlag.Clearlag/]: [ClearLag] Enabling ClearLag v2.9.7
+[01:44:42] [Server thread/INFO] [Minecraft/]: [ClearLag] Loading modules...
+[01:44:42] [Server thread/INFO] [Minecraft/]: [ClearLag] Modules enabed, loading config values
+[01:44:42] [Server thread/INFO] [Minecraft/]: [ClearLag] Modules have been loaded!
+[01:44:42] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now enabled!
+[01:44:42] [Thread-14/INFO] [Minecraft/]: [ClearLag] Checking for updates compatible with your bukkit version [1.7]...
+[01:44:42] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] Enabling TreeAssist v5.8.91
+[01:44:42] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] debugging: off
+[01:44:42] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Enabling EssentialsSpawn vPre2.14.1.3
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Enabling WorldGuard v5.9
+[01:44:42] [Thread-14/INFO] [Minecraft/]: [ClearLag] No updates found!
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (world) Lighters are PERMITTED.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (world) Lava fire is blocked.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Loaded configuration for world 'world'
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (DIM1) TNT ignition is PERMITTED.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (DIM1) Lighters are PERMITTED.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (DIM1) Lava fire is blocked.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (DIM1) Fire spread is UNRESTRICTED.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Loaded configuration for world 'DIM1'
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (DIM-1) TNT ignition is PERMITTED.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (DIM-1) Lighters are PERMITTED.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (DIM-1) Lava fire is blocked.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] (DIM-1) Fire spread is UNRESTRICTED.
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Loaded configuration for world 'DIM-1'
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] 0 regions loaded for 'world'
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] 0 regions loaded for 'DIM1'
+[01:44:42] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] 0 regions loaded for 'DIM-1'
+[01:44:43] [Server thread/INFO] [com.hg.HouseGuard/]: [HouseGuard] Enabling HouseGuard v0.2
+[01:44:43] [Server thread/INFO] [/]: [HouseGuard] Plugin started successfuly!
+[01:44:43] [Server thread/INFO] [/]: [HouseGuard] Version: 1.0
+[01:44:43] [Server thread/INFO] [/]: [HouseGuard] Authors: Yarkhs, AtomGamers.
+[01:44:43] [Server thread/INFO] [/]: [HouseGuard] Good use :)
+[01:44:43] [Server thread/INFO] [/]: [HouseGuard] world
+[01:44:43] [Server thread/INFO] [/]: [HouseGuard] DIM1
+[01:44:43] [Server thread/INFO] [/]: [HouseGuard] DIM-1
+[01:44:43] [Server thread/INFO] [com.Acrobot.ChestShop.ChestShop/]: [ChestShop] Enabling ChestShop v3.9.0 (build #52)
+[01:44:43] [Server thread/WARN] [FML/]: =============================================================
+[01:44:43] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:44:43] [Server thread/WARN] [FML/]: Offendor: org/ibex/nestedvm/Interpreter.main([Ljava/lang/String;)V
+[01:44:43] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:44:43] [Server thread/WARN] [FML/]: =============================================================
+[01:44:43] [Server thread/WARN] [FML/]: =============================================================
+[01:44:43] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:44:43] [Server thread/WARN] [FML/]: Offendor: org/ibex/nestedvm/RuntimeCompiler.main([Ljava/lang/String;)V
+[01:44:43] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:44:43] [Server thread/WARN] [FML/]: =============================================================
+[01:44:43] [Server thread/WARN] [FML/]: =============================================================
+[01:44:43] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:44:43] [Server thread/WARN] [FML/]: Offendor: org/ibex/nestedvm/RuntimeCompiler.main([Ljava/lang/String;)V
+[01:44:43] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:44:43] [Server thread/WARN] [FML/]: =============================================================
+[01:44:44] [Server thread/INFO] [com.Acrobot.ChestShop.ChestShop/]: [ChestShop] Vault loaded! Found an economy plugin!
+[01:44:44] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Enabling EssentialsProtect vPre2.14.1.3
+[01:44:44] [Server thread/INFO] [com.region.BuyRegion/]: [BuyRegion] Enabling BuyRegion v1.1.7
+[01:44:44] [Server thread/INFO] [com.region.BuyRegion/]: [BuyRegion] BuyRegion - Maintained by Luke199
+[01:44:44] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[01:44:44] [Craft Scheduler Thread - 1/INFO] [/]: [Skript] Checking for the latest version of Skript...
+[01:44:45] [Skript update thread/INFO] [/]: [Skript] You're currently running the latest stable version of Skript.
+[01:44:45] [Server thread/INFO] [Minecraft/]: [Skript] All scripts loaded without errors.
+[01:44:45] [Server thread/INFO] [Minecraft/]: [Skript] Loaded 1 script with a total of 0 triggers and 2 commands in 0.1 seconds
+[01:44:45] [Server thread/INFO] [Minecraft/]: [Skript] Finished loading.
+[01:44:45] [Server thread/INFO] [/]: GroupManager - INFO - Bukkit Permissions Updated!
+[01:44:45] [Craft Scheduler Thread - 5/INFO] [net.milkbowl.vault.Vault/]: [Vault] Checking for Updates ... 
+[01:44:45] [Craft Scheduler Thread - 5/INFO] [net.milkbowl.vault.Vault/]: [Vault] No new version available
+[01:44:47] [Server thread/INFO] [FML/]: InvTweaks: net.minecraft.inventory.ContainerPlayer
+[01:44:47] [Server thread/INFO] [FML/]: InvTweaks: net.minecraft.inventory.ContainerChest
+[01:44:47] [Server thread/INFO] [FML/]: InvTweaks: net.minecraft.inventory.ContainerHopper
+[01:44:47] [Server thread/INFO] [FML/]: InvTweaks: net.minecraft.inventory.ContainerEnchantment
+[01:44:47] [Server thread/INFO] [FML/]: InvTweaks: net.minecraft.inventory.ContainerRepair
+[01:44:47] [Server thread/INFO] [FML/]: InvTweaks: net.minecraft.inventory.ContainerWorkbench
+[01:44:47] [Server thread/INFO] [FML/]: InvTweaks: net.minecraft.inventory.ContainerFurnace
+[01:44:47] [Server thread/INFO] [FML/]: InvTweaks: net.minecraft.inventory.ContainerDispenser
+[01:44:47] [Server thread/INFO] [FML/]: InvTweaks: net.minecraft.inventory.ContainerBrewingStand
+[01:44:47] [Server thread/INFO] [FML/]: InvTweaks: net.minecraft.inventory.ContainerBeacon
+[01:44:47] [Server thread/INFO] [FML/]: InvTweaks: net.minecraft.inventory.ContainerMerchant
+[01:44:48] [Netty IO #0/INFO] [FML/]: Client protocol version 2
+[01:44:48] [Netty IO #0/INFO] [FML/]: Client attempting to join with 26 mods : MapWriter@2.1.2,ReiMinimap@1.7.10,AncientWarfareNEIPlugin@2.4.114-beta-MC1.7.10,CraftHeraldry@1.1.3,DP_SimpleFlight@0.8,Forge@10.13.4.1558,AncientWarfareNpc@2.4.114-beta-MC1.7.10,BiblioCraft@1.10.5,bspkrsCore@6.16,mcp@9.05,Treecapitator@1.7.10,DamageIndicatorsMod@3.2.0,chocolateQuest@1.0,craftguide@1.7.1.0,AncientWarfare@2.4.114-beta-MC1.7.10,sit@v1.0,AncientWarfareStructure@2.4.114-beta-MC1.7.10,AncientWarfareAutomation@2.4.114-beta-MC1.7.10,FML@7.10.99.99,inventorytweaks@1.58-147-645ca10,lootablebodies@1.3.7,MoreFurnaces@1.3.9,Backpack@2.0.1,weaponmod@v1.14.3,GollumCoreLib@2.0.0,eplus@3.0.2-d
+[01:44:48] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:44:48] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:45:17] [Server thread/INFO] [Essentials/]: §cZurin §4was denied access to command.
+[01:45:27] [Server thread/INFO] [Essentials/]: §cZurin §4was denied access to command.
+[01:46:10] [Server thread/WARN] [Minecraft.WorldEdit/]: [WorldEdit] No compatible nms block class found.
+[01:49:56] [Server thread/INFO] [/]: CONSOLE: Forcing save..
+[01:49:56] [Server thread/INFO] [/]: CONSOLE: Save complete.
+[01:49:56] [Server thread/INFO] [/]: CONSOLE: Stopping the server..
+[01:49:56] [Server thread/INFO] [com.region.BuyRegion/]: [BuyRegion] Disabling BuyRegion v1.1.7
+[01:49:56] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Disabling EssentialsProtect vPre2.14.1.3
+[01:49:56] [Server thread/INFO] [com.Acrobot.ChestShop.ChestShop/]: [ChestShop] Disabling ChestShop v3.9.0 (build #52)
+[01:49:56] [Server thread/INFO] [com.hg.HouseGuard/]: [HouseGuard] Disabling HouseGuard v0.2
+[01:49:56] [Server thread/INFO] [/]: [HouseGuard] Plugin disabled successfully.
+[01:49:56] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Disabling WorldGuard v5.9
+[01:49:56] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Disabling EssentialsSpawn vPre2.14.1.3
+[01:49:56] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Disabling Vault v1.5.6-b49
+[01:49:56] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] Disabling TreeAssist v5.8.91
+[01:49:56] [Server thread/INFO] [me.minebuilders.clearlag.Clearlag/]: [ClearLag] Disabling ClearLag v2.9.7
+[01:49:56] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now disabled!
+[01:49:56] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vPre2.14.1.3
+[01:49:56] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Disabling GroupManager vPre2.14.1.3 FINAL (Phoenix)
+[01:49:56] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[01:49:56] [Server thread/INFO] [/]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[01:49:56] [Server thread/INFO] [/]: GroupManager version Pre2.14.1.3 FINAL (Phoenix) is disabled!
+[01:49:56] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Disabling EssentialsChat vPre2.14.1.3
+[01:49:56] [Server thread/INFO] [Essentials/]: Essentials: Using config file enhanced permissions.
+[01:49:56] [Server thread/INFO] [Essentials/]: Permissions listed in as player-commands will be given to all users.
+[01:49:56] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Disabling Essentials vPre2.14.1.3
+[01:49:56] [Server thread/INFO] [ch.njol.skript.Skript/]: [Skript] Disabling Skript v2.1.2
+[01:49:56] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Disabling WorldEdit v5.5.7
+[01:49:56] [Server thread/INFO] [FML/]: Unloading dimension 0
+[01:49:56] [Server thread/INFO] [FML/]: Unloading dimension -1
+[01:49:56] [Server thread/INFO] [FML/]: Unloading dimension 1
+[01:49:56] [Server thread/INFO] [FML/]: Applying holder lookups
+[01:49:56] [Server thread/INFO] [FML/]: Holder lookups applied
